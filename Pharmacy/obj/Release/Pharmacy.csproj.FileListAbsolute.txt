@@ -1,0 +1,16 @@
+C:\Users\Steven20367691\source\repos\Pharmacy\Pharmacy\bin\Release\drug sept 2012.mdb
+C:\Users\Steven20367691\source\repos\Pharmacy\Pharmacy\bin\Release\PharmacyDatabase.mdf
+C:\Users\Steven20367691\source\repos\Pharmacy\Pharmacy\bin\Release\PharmacyDatabase_log.ldf
+C:\Users\Steven20367691\source\repos\Pharmacy\Pharmacy\bin\Release\Pharmacy.exe.config
+C:\Users\Steven20367691\source\repos\Pharmacy\Pharmacy\bin\Release\Pharmacy.exe
+C:\Users\Steven20367691\source\repos\Pharmacy\Pharmacy\bin\Release\Pharmacy.pdb
+C:\Users\Steven20367691\source\repos\Pharmacy\Pharmacy\obj\Release\Pharmacy.csproj.AssemblyReference.cache
+C:\Users\Steven20367691\source\repos\Pharmacy\Pharmacy\obj\Release\Pharmacy.BackUp.resources
+C:\Users\Steven20367691\source\repos\Pharmacy\Pharmacy\obj\Release\Pharmacy.Loading.resources
+C:\Users\Steven20367691\source\repos\Pharmacy\Pharmacy\obj\Release\Pharmacy.LogIn.resources
+C:\Users\Steven20367691\source\repos\Pharmacy\Pharmacy\obj\Release\Pharmacy.Main_page.resources
+C:\Users\Steven20367691\source\repos\Pharmacy\Pharmacy\obj\Release\Pharmacy.Properties.Resources.resources
+C:\Users\Steven20367691\source\repos\Pharmacy\Pharmacy\obj\Release\Pharmacy.csproj.GenerateResource.cache
+C:\Users\Steven20367691\source\repos\Pharmacy\Pharmacy\obj\Release\Pharmacy.csproj.CoreCompileInputs.cache
+C:\Users\Steven20367691\source\repos\Pharmacy\Pharmacy\obj\Release\Pharmacy.exe
+C:\Users\Steven20367691\source\repos\Pharmacy\Pharmacy\obj\Release\Pharmacy.pdb
