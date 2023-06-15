@@ -4,7 +4,7 @@
 
 <h2>🚀 Demo</h2>
 
-[Pharmacy Video](https://drive.google.com/file/d/1Fr2WaD-q2pFJ1sSo36vFTHUr1tCHGAs4/view?usp=sharing)
+[Pharmacy System Video](https://drive.google.com/file/d/1Fr2WaD-q2pFJ1sSo36vFTHUr1tCHGAs4/view?usp=sharing)
 
   
   
