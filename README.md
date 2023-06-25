@@ -1,6 +1,9 @@
 <h1 align="center" id="title">Pharmacy-System</h1>
 
-<p id="description">A Pharmacy management system using C# with an internal database using MS SQL server.</p>
+<p id="description">Developed a user-friendly Graphical User Interface (GUI) using C# and
+integrated it with a SQL server. Designed and implemented the GUI to
+enable users to store, edit, and delete items, and receive warning
+messages when items expire.</p>
 
 <h2>🚀 Demo</h2>
 
